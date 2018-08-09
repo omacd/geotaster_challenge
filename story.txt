@@ -1,3 +1,7 @@
 Once upon a time there was a fish called Brian. Brian wanted to make new friends so he bought a motorbike, but the other fish thought Brian was trying too hard. 
 
 So then Brian <DID SOMETHING>, but the other fish thought Brian was <A DESCRIPTION OF BRIAN>. 
+So then Brian spent a decade supporting all manner of GIS stuff, but the 
+other fish thought Brian was still unemployable despite his incredible 
+experience and new maturity so he had to spend the rest of his time 
+practising github in order to become a data scientist and pay the bills.
